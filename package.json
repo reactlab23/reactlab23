@@ -1,0 +1,18 @@
+{
+  "name": "reactlab23-communication",
+  "version": "1.0.0",
+  "description": "Communication interface for automation workflows",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "ws": "^8.14.2"
+  },
+  "keywords": ["communication", "automation", "api"],
+  "author": "",
+  "license": "MIT"
+}
